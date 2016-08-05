@@ -23,6 +23,7 @@ public class MaisonService {
         sampleCustomer.setEmail("trinhtoantrung@gmail.com");
         sampleCustomer.setMobile("0937906688");
         sampleCustomer.setAddress("Etown - Cong Hoa");
+        sampleCustomer.setBrand("Pedro");
         return sampleCustomer;
     }
 
